@@ -1,11 +1,10 @@
-import { useState } from 'react'
+import Search from "./Search"
 
-function App() {
-
+function App() { 
   return (
 
       <div>
-        
+        <Search />
       </div>
 
   )
